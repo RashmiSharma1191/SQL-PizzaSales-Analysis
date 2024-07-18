@@ -1,4 +1,4 @@
-#SQL Pizza Sales Analysis 
+# SQL Pizza Sales Analysis 
 
 In this project, I have used basic to intermediate-level SQL Queries to explore
 Pizza Sales dataset of a company.
